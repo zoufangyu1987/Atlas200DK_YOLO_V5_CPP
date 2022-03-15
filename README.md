@@ -70,3 +70,15 @@ https://blog.csdn.net/qq_36530992/article/details/110264364
 
 
 
+说明：代码和工具不是本人源创，都是如下两个开源库作者的贡献
+https://github.com/Hanawh/Atlas_200DK_yolov5_cpp
+https://github.com/lenLRX/Atlas_ACL_E2E_Demo
+
+再次感谢！！！
+
+
+
+
+
+
+
